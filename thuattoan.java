@@ -17,9 +17,9 @@ public class thuattoan {
     }
 
     public static void main(String[] args) {
-        System.out.println(list, 2);
-        System.out.println(list, 11);
-        System.out.println(list, 79);
+        System.out.println(BinarySearch(list,2));
+        System.out.println(BinarySearch(list,11));
+        System.out.println(BinarySearch(list,80));
     }
 
 }
